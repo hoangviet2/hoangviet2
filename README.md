@@ -14,7 +14,7 @@
 
 🏆 **PSPC** top 5 and frequent participant in hackathons  
 
-🏆 **ICPC** Viet Nam top 35  
+🏆 **ICPC** North America Pacific Northwest Regional contest division 2 top 8  
 
 ⌨️ Recent projects leverage **Firebase**, **Docker**, and **serverless architectures**  
 
